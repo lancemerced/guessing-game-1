@@ -84,4 +84,4 @@ for filename in os.listdir(LEADERBOARD_DIR):
         print(f"\nLeaderboard for {filename}:")
         print(leaderboard_file.read())
 
-server_socket.close()
+server_socket.close
